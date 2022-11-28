@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dooblee
-- 👀 I’m interested in python, Django, and more...
+- 👀 I’m interested in python, Django, Javascript and more...
 - 🌱 I’m currently learning Django.
 
 <!---
